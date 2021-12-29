@@ -20,6 +20,8 @@
 * [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
   At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
+* [Clever Programmer](https://www.youtube.com/c/CleverProgrammer): Fun & interactive coding lessons, not for absolute beginners but this guy will teach you about Javascript, Python & also money making as a freelance coder. 
+
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
 
 * [Tech With Tim](https://www.youtube.com/c/TechWithTim/featured): Python Programming, Game Development, Pygame, Java Tutorials and Machine Learning. This is a list of a few of the things I love to post on my channel. My goal is share my knowledge of programming with you and allow everyone access to education for FREE.
